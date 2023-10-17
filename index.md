@@ -2,6 +2,7 @@
 
 Previously available [here](http://www.lasecuriteestunechec.com/bookmarks.html)
 
+- [https://1984.consulting/](https://1984.consulting/)
 - [https://7fortress.com/](https://7fortress.com/)
 - [https://abbakan.com/](https://abbakan.com/)
 - [https://aboz.fr/category/cyber-securite](https://aboz.fr/category/cyber-securite)
