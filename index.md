@@ -1,4 +1,4 @@
-# An incomplete list of cybersecurity companies in France.
+![image](https://github.com/user-attachments/assets/8a51d6a4-ec8b-4210-962a-a947c7ad8bc5)# An incomplete list of cybersecurity companies in France.
 
 Previously available [here](http://www.lasecuriteestunechec.com/bookmarks.html)
 
@@ -317,6 +317,7 @@ Previously available [here](http://www.lasecuriteestunechec.com/bookmarks.html)
 - [https://www.aibizudsx.com/index.html](https://www.aibizudsx.com/index.html)
 - [https://www.aidalinfo.fr/](https://www.aidalinfo.fr/)
 - [https://www.aisi.fr/](https://www.aisi.fr/)
+- [https://www.akant.fr/](https://www.akant.fr/)
 - [https://www.akaoma.com/](https://www.akaoma.com/)
 - [https://www.akerva.com/](https://www.akerva.com/)
 - [https://www.alekso.fr/](https://www.alekso.fr/)
