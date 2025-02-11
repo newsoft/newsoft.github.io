@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a51d6a4-ec8b-4210-962a-a947c7ad8bc5)# An incomplete list of cybersecurity companies in France.
+# An incomplete list of cybersecurity companies in France.
 
 Previously available [here](http://www.lasecuriteestunechec.com/bookmarks.html)
 
