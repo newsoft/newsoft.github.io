@@ -98,6 +98,7 @@ Previously available [here](http://www.lasecuriteestunechec.com/bookmarks.html)
 - [https://cyberchaos.fr/](https://cyberchaos.fr/)
 - [https://cyberesist.com/](https://cyberesist.com/)
 - [https://cyberlegal.fr/](https://cyberlegal.fr/)
+- [https://cybersalus.io/](https://cybersalus.io/)]
 - [https://cybersecours.com/](https://cybersecours.com/)
 - [https://cybersecurite-management.fr/](https://cybersecurite-management.fr/)
 - [https://cyberwave.network/mentions-legales/](https://cyberwave.network/mentions-legales/)
