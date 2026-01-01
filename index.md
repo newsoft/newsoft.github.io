@@ -97,6 +97,7 @@ Previously available [here](http://www.lasecuriteestunechec.com/bookmarks.html)
 - [https://cyber4u.fr/](https://cyber4u.fr/)
 - [https://cyber8.eu/](https://cyber8.eu/)
 - [https://cyberchaos.fr/](https://cyberchaos.fr/)
+- [https://cyberdoom.tech/](https://cyberdoom.tech/)
 - [https://cyberesist.com/](https://cyberesist.com/)
 - [https://cyberlegal.fr/](https://cyberlegal.fr/)
 - [https://cybersalus.io/](https://cybersalus.io/)]
